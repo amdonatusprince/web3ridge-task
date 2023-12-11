@@ -90,6 +90,8 @@ const App = () => {
         />
         <button onClick={handleCouponApply}>Apply Coupon</button>
       </div>
+
+      <button>PAY NOW</button>
     </div>
   );
 };
